@@ -1,0 +1,10 @@
+
+Step-by-Step Creation Process
+
+1. Open the creation menu. Log in to your Jira site and click Projects (or Spaces) in the top or side navigation bar. Select Create project (or click the + icon). (Note: If this option is missing or grayed out, you lack global creation permissions and must ask a Jira administrator).
+2. Choose a template. Browse the left sidebar by category (e.g., Software development, Work management, Service management) and select a template that fits your workflow. Common starting points include Scrum (for sprint-based delivery), Kanban (for continuous flow), or a Blank/Business template (for general task tracking). Click Use template.
+3. Select a project type. Depending on your license and admin settings, choose between two management styles:
+	• Team-managed. Ideal for autonomous teams that want simple, self-contained settings without affecting other projects.
+	• Company-managed. Best for organizations needing standardized workflows, shared permissions, and centralized admin control across multiple teams.
+4. Add project details. Enter a descriptive Name (e.g., Website Redesign). Jira will automatically generate a short Key (e.g., WEB), which serves as the prefix for every task ID in that project—customize this now if needed, as changing it later disrupts links.
+5. Set access levels and finalize. If prompted on a team-managed setup, choose whether the project is Open (anyone on your Jira site can view/edit), Limited, or Private (invite-only). Click Create project (or Next) to launch your board
