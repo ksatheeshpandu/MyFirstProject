@@ -1,0 +1,53 @@
+Confluence Cloud – Space Creation Steps
+Step 1: Log in to Confluence
+1. Open your organization's Confluence Cloud URL.
+2. Log in using your company credentials.
+3. Navigate to the Confluence dashboard.
+Step 2: Create a new space
+1. Click Spaces in the navigation menu.
+2. Select Create a space.
+3. Choose a space type, such as:
+   - Team space
+   - Knowledge base
+   - Documentation space (if available in your template options)
+4. Click Next or continue with the selected template.
+Step 3: Configure space details
+Enter the required information:
+Field	Example
+Space name	Jira Administration
+Space key	JIRA
+Description	Jira administration documentation
+Space type	Team space
+
+Step 4: Configure permissions
+1. Open Space settings.
+2. Navigate to Space permissions.
+3. Add the required users and groups.
+4. Configure permissions:
+   - View
+   - Add pages
+   - Delete pages
+   - Add comments
+   - Administer space
+5. Save the changes.
+Step 5: Customize the space
+1. Open the newly created space.
+2. Update the space overview.
+3. Add a welcome message.
+4. Create pages such as:
+   - Jira Administration
+   - Project Documentation
+   - Technical Documentation
+   - Meeting Notes
+5. Organize pages using parent and child pages.
+Step 6: Verify space creation
+1. Navigate to Spaces.
+2. Search for Jira Administration.
+3. Open the space.
+4. Verify the space name and key.
+5. Verify user and group permissions.
+6. Confirm users can access the space.
+Expected result
+ Your Confluence space is created and ready to use.
+
+Important: You need the global Create Space permission to create a space.
